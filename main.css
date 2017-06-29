@@ -1,0 +1,18 @@
+body{
+    background-color: green;
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+#life{
+    color: red;
+}
+
+#div{
+    background-color: red;
+}
+
+#image{
+    width:40%;
+    display: block;
+    margin: auto;
+}
